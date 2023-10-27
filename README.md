@@ -27,4 +27,4 @@ Este repositório contém uma calculadora web simples desenvolvida com HTML, CSS
 
 **Fotos do Projeto:**
 
-<img src="Calculadora/Captura de tela 2023-10-26 231925.png" alt="Tela Principal" width="1066px" height="568px"><br>
+<img src="Calculadora/Captura de tela 2023-10-26 231925.png" alt="Tela Principal" width="700px" height="500px"><br>
